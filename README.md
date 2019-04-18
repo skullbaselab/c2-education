@@ -1,5 +1,5 @@
-# C2-Education
-## Auto Auditor
+# c2-education
+## auto_auditor.js
 ### Introduction
 At C2 Education, students can buy tutoring hours. A typical tutoring session is two hours. Every time a student comes in for a session, the teacher records the number of hours used by the student by hand. The hours used are also recorded electronically by C2's Smart2 system.
 
